@@ -3,6 +3,7 @@
 
 # Xcode
 build/*
+.build
 *.pbxuser
 !default.pbxuser
 *.mode1v3
@@ -13,6 +14,7 @@ build/*
 !default.perspectivev3
 xcuserdata
 profile
+project.xcworkspace
 *.moved-aside
 *.xcworkspacedata
 
