@@ -24,7 +24,6 @@ let package = Package(
         .target(
             name: "FLAnimatedImage",
             dependencies: [],
-            path: "FLAnimatedImage",
-            publicHeadersPath: "FLAnimatedImage"),
+            path: "FLAnimatedImage"),
     ]
 )
